@@ -1,6 +1,6 @@
 # visualbaesmusicrecommendation
 
-I have uploaded pdf regarding this projects , steps  database photo , postman and pictures realted to it 
+I have uploaded pdf regarding this project , steps,  database photo , postman and pictures realted to it 
 
 inside visualbasedmusicrecommendation folder
 
