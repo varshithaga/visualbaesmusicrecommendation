@@ -1,0 +1,18 @@
+<h2>Predicted Genre: {{ predicted_genre }}</h2>
+<img src="{{ image_url }}" alt="Uploaded Image" width="200">
+
+<h3>Top 10 Songs:</h3>
+<ul>
+  {% for song in songs %}
+    <li>
+      {{ song.title }}<br>
+        <audio controls>
+        <source src="{{ MEDIA_URL }}{{ song.file_path }}" type="audio/wav">
+        Your browser does not support the audio element.
+        </audio>
+    </li>
+  {% empty %}
+    <li>No songs found for this genre.</li>
+  {% endfor %}
+</ul>
+    
