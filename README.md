@@ -1,4 +1,7 @@
 # visualbaesmusicrecommendation
+
+I have uploaded pdf regarding this projects , steps  database photo , postman and pictures realted to it 
+
 inside visualbasedmusicrecommendation folder
 
 django-admin stratproject visual_music_rec
