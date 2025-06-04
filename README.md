@@ -34,16 +34,17 @@ create a database named musicrecommend
 in settings.py 
 and enter your  username and password in DATABASES
 
+next run in terminal (for training the model)
+
+python train_genre_cnn.py 
+(to train the images)
+
 git clone the folder and then apply migrations
 
 python manage.py makemigrations
 
 python manage.py migrate 
 
-next run in terminal (for training the model)
-
-python train_genre_cnn.py 
-(to train the images)
 
 next 
 
