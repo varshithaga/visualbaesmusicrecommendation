@@ -11,7 +11,9 @@ to create environment
 cd ..
 
 python -m vev venv
+
 .\venv\Scripts\activate
+
 pip install -r requirements.txt
 
 next steps
