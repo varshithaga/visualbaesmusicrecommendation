@@ -3,7 +3,7 @@ inside visualbasedmusicrecommendation folder
 
 django-admin stratproject visual_music_rec
 
-cd visual_music_rec
+cd visual_music_rec  rty
 
 python manage.py startapp music
 
