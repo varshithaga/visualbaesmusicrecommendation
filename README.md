@@ -44,7 +44,8 @@ next run in terminal (for training the model)<br>
 
 # git clone
 git clone the folder <br>
-https://github.com/varshithaga/visualbaesmusicrecommendation.git
+<pre>https://github.com/varshithaga/visualbaesmusicrecommendation.git
+</pre>
 
 # apply migrations
 <pre>
