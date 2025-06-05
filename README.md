@@ -38,16 +38,19 @@ and enter your  username and password in DATABASES
 
 # training the model
 next run in terminal (for training the model)<br>
-python train_genre_cnn.py <br>
+<pre>python train_genre_cnn.py</pre>
+<br>
 (to train the images)
 
 # git clone
-git clone the foldder <br>
+git clone the folder <br>
 https://github.com/varshithaga/visualbaesmusicrecommendation.git
 
 # apply migrations
-python manage.py makemigrations<br>
-python manage.py migrate <br>
+<pre>
+python manage.py makemigrations
+python manage.py migrate 
+</pre>
 
 
 # next steps
@@ -58,10 +61,13 @@ inside that create a file named print_music_files.py  ( is to to automatically p
 
 # to run
 then in terminal run --> <br>
-python manage.py print_music_files<br>
+<pre>
+  python manage.py print_music_files
+</pre>
 
 # Final Run
-python manage.py runserver
+<pre>python manage.py runserver
+</pre>
 
 
 
