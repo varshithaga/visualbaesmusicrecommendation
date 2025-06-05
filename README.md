@@ -3,7 +3,7 @@ I have uploaded pdf regarding this project , steps,  database photo , postman an
 inside visualbasedmusicrecommendation folder
 
 # create folder
-'''django-admin stratproject visual_music_rec<br>'''
+'''django-admin stratproject visual_music_rec'''<br>
 cd visual_music_rec  <br>
 python manage.py startapp music<br>
 
