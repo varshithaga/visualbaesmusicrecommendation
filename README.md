@@ -11,11 +11,13 @@ python manage.py startapp music
 
 
 # Environment
-to create environment
-cd ..<br>
-python -m vev venv<br>
-.\venv\Scripts\activate<br>
+<pre>
+cd ..
+python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
+</pre>
+
 
 # next steps
 
