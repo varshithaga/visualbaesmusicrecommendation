@@ -1,4 +1,4 @@
-# visualbaesmusicrecommendation
+# visualbasedmusicrecommendation
 I have uploaded pdf regarding this project , steps,  database photo , postman and pictures related to it <br>
 inside visualbasedmusicrecommendation folder
 
