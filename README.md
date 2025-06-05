@@ -3,9 +3,12 @@ I have uploaded pdf regarding this project , steps,  database photo , postman an
 inside visualbasedmusicrecommendation folder
 
 # create folder
-<pre> django-admin startproject visual_music_rec  </pre><br>
-cd visual_music_rec  <br>
-python manage.py startapp music<br>
+<pre>
+django-admin startproject visual_music_rec 
+cd visual_music_rec
+python manage.py startapp music
+</pre>
+
 
 # Environment
 to create environment
